@@ -1,2 +1,2 @@
 # SREditor
-Un editor per windows per riprodurre i file sre
+I file .sre sono una mia invenzione e significa Sequenza Ritmica Editabile
