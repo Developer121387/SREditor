@@ -1,0 +1,11 @@
+Scheda:
+Apri e riproduci file:
+Seleziona la melodia che vuoi sentire e ascoltala.
+Crea nuova melodia:
+Scrivi il nome del file che vuoi creare.
+Premi n per il silenzio.
+Premi s per il suono.
+Premi l per un suono lungo.
+Premi f per il suono acuto.
+Premi Salva per salvare il file.
+		
